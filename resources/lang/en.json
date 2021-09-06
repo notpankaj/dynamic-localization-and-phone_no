@@ -1,0 +1,31 @@
+{
+    "home": "Home",
+    "works": "Works",
+    "about_me": "About me",
+    "contact": "Contact",
+    "components": "Components",
+    "footer" : "UNTITLED | Website created with",
+        
+    "indexPage hello" : "Hello",
+    "indexPage name" : "I'm PaNkaj",
+    "indexPage work" : "Web Dev",
+    "indexPage occupation" : "Working as a Junior Web Dev",
+
+    "aboutPage title": "About me",
+    "aboutPage heading1" : "Enhanced monitoring procedures",
+    "aboutPage para1" : "The pain itself is love, the main customer Maecenas luctus at sem quis varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos Cras ultrices hendrerit nisl.",
+    "aboutPage heading2" : "To have at least",
+    "aboutPage para2" : "But the pain in the film is irure to condemn, in pleasure it wants to escape from the pain of being cillus that no one pays for. They are the exceptions the blinds yearn for, they don't see, they are the ones who abandon their responsibilities to the fault that is soothing the soul's hardships.",
+    "aboutPage heading3" : "Maecenas luctus at sem quis varius",
+    "aboutPage para3" : "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos The arrows of the arrows are a great success to the arrows of the arrows, but the venom of the bureau of the vehicle. Morbi accumsan iaculis blandit. Cras ultrices hendrerit nisl.",
+    
+    
+    "contactPage title" : "Contact me",
+    "contactPage email" : "Email",
+    "contactPage subject" : "Subject",
+    "contactPage EnterYourMessage": "Enter your message",
+    "contactPage send": "Send",
+    "contactPage FollowMeMessage": "Follow me on social networks"
+    
+}
+
